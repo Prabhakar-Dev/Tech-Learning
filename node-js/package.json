@@ -1,0 +1,26 @@
+{
+  "name": "tech-learning",
+  "version": "1.0.0",
+  "description": "this is for the only node js tech topic you can find here ",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"INFO: There is no commands. you need to run file directly\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhusuryawanshi/Tech-Learning.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "prabhakar suryawanshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhusuryawanshi/Tech-Learning/issues"
+  },
+  "homepage": "https://github.com/prabhusuryawanshi/Tech-Learning#readme",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.18.2"
+  }
+}
